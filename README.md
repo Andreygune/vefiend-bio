@@ -1,2 +1,2 @@
 сайтик
-https://vefiend.github.io/vefiend-bio/
+https://vefiend.github.io/vefiend-portfolio/
